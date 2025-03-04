@@ -1,14 +1,78 @@
-# Git & Github Workshop
+# 🌟 GitHub Markdown Cheat Sheet
 
-## 3 days handson workshop 
+## 📌 Inline Code
+Use inline code for short commands:
+```md
+`npm install` → npm install
+```
+`npm install` → npm install
 
-###  global
+## 🚀 Code Blocks
+Use triple backticks for longer code snippets:
+```md
+```js
+console.log('Hello, world!');
+```
+```
+```js
+console.log('Hello, world!');
+```
 
-**bold text**
+## 📋 Lists
+### 🔹 Unordered List
+```md
+- First Item
+- Second Item
+  - Nested Item
+```
+- First Item
+- Second Item
+  - Nested Item
 
-*italic*
+### 🔢 Ordered List
+```md
+1. First Item
+2. Second Item
+3. Third Item
+```
+1. First Item
+2. Second Item
+3. Third Item
 
-***bold and italic***
+## ✅ Task Lists
+```md
+- [ ] Task to be done
+- [x] Completed task
+```
+- [ ] Task to be done
+- [x] Completed task
 
->Quote
+## 🖼️ Adding Images
+```md
+![Alt Text](image.png)
+```
+Example:
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+## 🔗 Links
+```md
+[GitHub](https://github.com)
+```
+[GitHub](https://github.com)
+
+## 💬 Blockquotes & Emphasis
+```md
+> This is a blockquote.
+**Bold Text**
+*Italic Text*
+~~Strikethrough~~
+```
+> This is a blockquote.
+**Bold Text**
+*Italic Text*
+~~Strikethrough~~
+
+---
+### 🎯 Want to Learn More?
+Check out [GitHub Markdown Guide](https://guides.github.com/features/mastering-markdown/)!
 
