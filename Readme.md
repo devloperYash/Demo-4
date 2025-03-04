@@ -4,3 +4,7 @@
 
 ###  global
 
+** bold text **
+
+* italic *
+
