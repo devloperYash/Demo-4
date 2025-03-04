@@ -8,3 +8,7 @@
 
 *italic*
 
+***bold and italic***
+
+
+
