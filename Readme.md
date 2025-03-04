@@ -20,7 +20,7 @@ console.log('Hello, world!');
 
 ## 📋 Lists
 ### 🔹 Unordered List
-```md
+```
 - First Item
 - Second Item
   - Nested Item
