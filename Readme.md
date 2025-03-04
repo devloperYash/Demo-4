@@ -4,7 +4,7 @@
 
 ###  global
 
-** bold text **
+**bold text**
 
-* italic *
+*italic*
 
